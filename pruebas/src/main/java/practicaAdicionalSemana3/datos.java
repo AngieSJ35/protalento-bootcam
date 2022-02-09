@@ -17,8 +17,6 @@ public class datos {
 		
 		ninios = datos.nextInt();
 	
-			
-		}
 		if(ninios > 0) {
 			System.out.println("Perfecto, ingrese primer registro en el siguiente orden: (Nombre, Apellido, Número del examen, Nota del examen)");
 			
